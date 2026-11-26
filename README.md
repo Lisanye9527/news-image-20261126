@@ -1,10 +1,10 @@
 # news-image-20261126 — 一图汇总 2026 年 11 月 26 日世界新闻
 
-![Competition badge](https://make.fun/badge/news-image-20261126.svg)
-![Rank](https://make.fun/badge/news-image-20261126/Lisanye9527/news-image-20261126/rank.svg)
-![Reward](https://make.fun/badge/news-image-20261126/Lisanye9527/news-image-20261126/reward.svg)
+[![make.fun · news-image-20261126](https://make.fun/badge/news-image-20261126.svg)](https://make.fun/bounty/news-image-20261126?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261126)
+[![rank](https://make.fun/badge/news-image-20261126/Lisanye9527/news-image-20261126/rank.svg)](https://make.fun/bounty/news-image-20261126/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261126)
+[![reward](https://make.fun/badge/news-image-20261126/Lisanye9527/news-image-20261126/reward.svg)](https://make.fun/bounty/news-image-20261126?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261126)
 
-竞赛页：https://make.fun/c/news-image-20261126
+竞赛页：https://make.fun/bounty/news-image-20261126
 
 ## 说明
 
